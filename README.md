@@ -23,7 +23,7 @@
 
 Aprendiendo ... 
 <p align="center">
-<img src="https://github.com/DevDesiree/DevDesiree/blob/main/GifCarga.gif">
+<img width="20%" src="https://github.com/DevDesiree/DevDesiree/blob/main/GifCarga.gif">
 </p>
 
 <p align="center">
