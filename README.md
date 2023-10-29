@@ -21,6 +21,11 @@
 
 ## Current Stack
 
+Aprendiendo ... 
+<p align="center">
+<img src="https://github.com/DevDesiree/DevDesiree/blob/main/GifCarga.gif">
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,bootstrap,css,git,html,js" />
