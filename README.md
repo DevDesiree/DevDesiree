@@ -1,13 +1,13 @@
 
-# Hi , I'm Desiree Sanchez 
+# Hi , I'm Desiree Sanchez 👋
 
 
 ## About me
 
 <img width="15%" align="right" alt="Penguin Coder" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0OTFtMG5ra2o1aTAwYTdsejBsenJoOTlxZXBhOWxtMTJ3Z2Q5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 
-- 👩‍🎓 Estudiante del Bootcamp Factoria F5 - Desarrollo Full Stack 850h
-- 💟 Me gusta ver peliculas, jugar a videojuegos , escribir codigo y leer.
+- 👩‍🎓 Estudiante del Bootcamp Factoría F5 - Desarrollo Full Stack 850h
+- 💟 Me gusta ver películas, jugar a videojuegos, escribir código y leer libros
 - 🧠 Estoy explorando el mundo del desarrollo Web
 
   
@@ -36,8 +36,10 @@ Aprendiendo ...
   </a>
 </p>
 
-
-
+---
+> "Gifs usados de Giphy"
+>
+> "Imagenes Skills usadas de skillicons.dev
 
 <!--
 **DevDesiree/DevDesiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
