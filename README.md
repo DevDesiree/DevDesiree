@@ -37,6 +37,12 @@ Aprendiendo ...
 </p>
 
 ---
+## Git Stats
+
+![devdesiree's Stats](https://github-readme-stats.vercel.app/api?username=devdesiree&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![devdesiree's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdesiree&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+---
 > "Gifs usados de Giphy"
 >
 > "Imagenes Skills usadas de skillicons.dev
