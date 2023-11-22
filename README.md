@@ -28,11 +28,11 @@ Aprendiendo ...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bootstrap,css,git,html,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,github,git,js,nodejs,python,md"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,discord" />
   </a>
 </p>
 
