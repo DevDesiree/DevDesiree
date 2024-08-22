@@ -28,7 +28,7 @@ Aprendiendo ...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,github,git,js,react,php,laravel,nodejs,python,java,md"/>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,github,git,js,react,java,php,laravel,nodejs,python,md"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
