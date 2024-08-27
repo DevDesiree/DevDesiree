@@ -13,15 +13,18 @@
   
 ## :mailbox: Contact me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/desisanchez/">
+<div align="center">
+  <a href="https://www.linkedin.com/in/desisanchez/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-</p>
+  <a href="mailto:desireesanchezdev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>  
+</div>
+
 
 ## Current Stack
 
-Aprendiendo ... 
 <p align="center">
 <img width="20%" src="https://github.com/DevDesiree/DevDesiree/blob/main/GifCarga.gif">
 </p>
