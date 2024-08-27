@@ -45,7 +45,13 @@
 ![devdesiree's Stats](https://github-readme-stats.vercel.app/api?username=devdesiree&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![devdesiree's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdesiree&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/DevDesiree?label=Seguir&style=for-the-badge" alt="Followers in GitHub">
+  <img src="https://komarev.com/ghpvc/?username=DevDesiree&color=blueviolet&style=for-the-badge" alt="Profile Views">
+</p>
+
 ---
+
 > "Gifs usados de Giphy"
 >
 > "Imagenes Skills usadas de skillicons.dev
