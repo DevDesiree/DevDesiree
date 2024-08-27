@@ -2,7 +2,7 @@
 # Hi , I'm Desiree Sanchez 👋
 
 
-## About me
+## 🙍‍♀️ About me
 
 <img width="15%" align="right" alt="Penguin Coder" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0OTFtMG5ra2o1aTAwYTdsejBsenJoOTlxZXBhOWxtMTJ3Z2Q5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 
@@ -23,7 +23,7 @@
 </div>
 
 
-## Current Stack
+## 🛠 Current Stack
 
 <p align="center">
 <img width="20%" src="https://github.com/DevDesiree/DevDesiree/blob/main/GifCarga.gif">
@@ -40,7 +40,7 @@
 </p>
 
 ---
-## Github Stats
+## 📊 Github Stats
 
 ![devdesiree's Stats](https://github-readme-stats.vercel.app/api?username=devdesiree&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![devdesiree's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdesiree&theme=dark&show_icons=true&hide_border=false&layout=compact)
